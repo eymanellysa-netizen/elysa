@@ -1,0 +1,20 @@
+h1 {
+	
+background-color:pink;
+color:brown;
+text-align:center;}
+
+body { 
+font-family:times new roman;
+backgroud-color:pink;}
+
+p { 
+color:purple;}
+
+ol {background-color: olive;
+	border: solid 5px;
+	border-coor:blue;
+	border-top-style:dotted;
+	border-bottom-style:dashed;
+	padding-top: 5px}
+
