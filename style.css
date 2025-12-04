@@ -1,7 +1,7 @@
-h1 {
+body {
 	
 background-color:pink;
-color:brown;
+color:grey;
 text-align:center;}
 
 body { 
@@ -11,10 +11,42 @@ backgroud-color:pink;}
 p { 
 color:purple;}
 
-ol {background-color: olive;
+ol {background-color: white;
 	border: solid 5px;
-	border-coor:blue;
+	border-coor:pink;
 	border-top-style:dotted;
 	border-bottom-style:dashed;
 	padding-top: 5px}
+	
+nav ul {
+background-color:white;
+border: solid 40px;
+	list-style-type: none;
+    padding: 0px
+	margin: opx;
+	}
+	
+	
+nav a{ 
+    text-decoration:none;
+	color:white;
+	padding: 10px;
+	display: blook;
+	text-align:center;
+}
+	
+nav a:hover{
+	background-color:pink;
+}
 
+nav li{
+	float: left;
+
+.bawah ul{
+background-color:lightblue;}
+
+.bawah li {
+float: right;}
+
+.bawah a:hover{
+background-color:black;}
